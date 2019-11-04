@@ -1,5 +1,5 @@
 # SE03-Group-08
-1.Mục tiêu & Định hướng
+
 1.1.Định hướng
 - Học cách làm việc nhóm
 - Học cách sử dụng github, khám phá các chức năng cũng như công cụ của github...
