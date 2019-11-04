@@ -29,4 +29,4 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
 - Admin: quản lí và tải nhạc lên web
 
 1.5. Mục tiêu, thời hạn hoàn thành
--Mục tiêu Hoàn thành sản phẩm trước deadline ít nhất 1 tuần. Sau đó tiến hành chạy thử nghiệm
+- Mục tiêu Hoàn thành sản phẩm trước deadline ít nhất 1 tuần. Sau đó tiến hành chạy thử nghiệm
