@@ -18,7 +18,5 @@
 1.3. Công nghệ và Công cụ
 
 -Sử dụng wordpress là chính
-
 -Các ngôn ngữ hỗ trợ như html, css, php làm giao diện...
-
 -Database:Mysql
