@@ -21,5 +21,4 @@
 
 -Các ngôn ngữ hỗ trợ như html, css, php làm giao diện...
 
-
 -Database:Mysql
