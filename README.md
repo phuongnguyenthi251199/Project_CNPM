@@ -1,4 +1,5 @@
 # SE03-Group-08
+Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải bài hát...
 
 1.1.Định hướng
 - Học cách làm việc nhóm
