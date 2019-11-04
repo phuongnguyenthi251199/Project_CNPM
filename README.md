@@ -1,4 +1,5 @@
 # SE03-Group-08
+Tên đề tài: Thiết kế web nghe nhạc 
 Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải bài hát...ở bất cứ đâu.
 
 1.1.Định hướng
@@ -26,3 +27,6 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
 1.4.Đối tượng người dùng
 - Tất cả mọi người: có thể nghe và tải nhạc
 - Admin: quản lí và tải nhạc lên web
+
+1.5. Mục tiêu, thời hạn hoàn thành
+-Mục tiêu Hoàn thành sản phẩm trước deadline ít nhất 1 tuần. Sau đó tiến hành chạy thử nghiệm
