@@ -20,6 +20,9 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
 - Sử dụng wordpress là chính
 - Các ngôn ngữ hỗ trợ như html, css, php làm giao diện...
 - Database:Mysql
+
+
+
 1.4.Đối tượng người dùng
 - Tất cả mọi người: có thể nghe và tải nhạc
 - Admin: quản lí và tải nhạc lên web
