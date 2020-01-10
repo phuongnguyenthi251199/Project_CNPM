@@ -37,7 +37,7 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
   Bạn cần có một cơ sở dữ liệu chuẩn như MySQL
   Có sẵn một tên miền
 - Cài đặt Wordpress
--Bước #1: Upload file wordpress.zip lên server
+- Bước #1: Upload file wordpress.zip lên server
    - Đầu tiên chúng ta tải về phiên bản mới nhất của WordPress từ WordPress.org.
    Upload file zip bạn vừa tải về lên server:
    - Sử dụng File Manage (Cpanel) để upload file zip
