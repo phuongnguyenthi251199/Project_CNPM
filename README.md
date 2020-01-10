@@ -79,4 +79,5 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
         - Tích vào “Discourage search engines from indexing this site”
         - Nếu bạn không muốn website này được index.
         - Cuối cùng là bấm Install WordPress.
-- Xong ! Chúng ta đã thành công cài đặt wordpress thủ công 100%. Và hãy làm trang web của mình trở nên hoàn hảo nhé! 
+- Xong ! Chúng ta đã thành công cài đặt wordpress thủ công 100%.
+- WordPress là một dự án nguồn mở nghĩa là bất cứ ai cũng có thể tùy chỉnh mã nguồn theo ý thích. Nó cũng có hàng ngàn Plugin miễn phí, nhiều theme chủ đề, cũng như widget và các công cụ khác. Tất cả các tính năng này cho phép bạn tạo bất kỳ loại trang web nào, bắt đầu từ các Blog đơn giản, các trang web cá nhân hoặc các trang giới thiệu cho các cửa hàng điện tử, các cơ sở tri thức hoặc các trang web về việc làm. Hãy tự tạo cho mình 1 trang web hoàn hảo nhé!
