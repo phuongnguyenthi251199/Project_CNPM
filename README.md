@@ -39,8 +39,8 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
 - Cài đặt Wordpress
 - Bước #1: Upload file wordpress.zip lên server
    - Đầu tiên chúng ta tải về phiên bản mới nhất của WordPress từ WordPress.org.
-   Upload file zip bạn vừa tải về lên server:
-   - Sử dụng File Manage (Cpanel) để upload file zip
+   - Upload file zip bạn vừa tải về lên server:
+   Sử dụng File Manage (Cpanel) để upload file zip
    Đăng nhập tài khoản hosting mà bạn được cung cấp.
    Nhấp chuột vào cPanel File Manager để mở
    Nếu một thông báo ở đây hãy chọn Web Root.
