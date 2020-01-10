@@ -32,7 +32,7 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
 - Mục tiêu Hoàn thành sản phẩm trước deadline ít nhất 1 tuần. Sau đó tiến hành chạy thử nghiệm.
 
 1.6.Hướng dẫn cài đặt và sử dụng
--Chuẩn bị Hosting (có Cpanel)
+- Chuẩn bị Hosting (có Cpanel)
   Đầu tiên là bạn cần chuẩn bị một hosting có Cpanel.
   Thường các shared host hiện nay đều sử dụng Cpanel hoặc AdminDirect.
   Bạn cần có một cơ sở dữ liệu chuẩn như MySQL
