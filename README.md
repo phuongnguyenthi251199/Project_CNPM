@@ -39,16 +39,16 @@ Sản phẩm là web âm nhạc như Zingmp3 có chức năng nghe nhạc, tải
 - Cài đặt Wordpress
 -Bước #1: Upload file wordpress.zip lên server
    - Đầu tiên chúng ta tải về phiên bản mới nhất của WordPress từ WordPress.org.
-   -Upload file zip bạn vừa tải về lên server:
-   - Sử File Manage (Cpanel) để upload file zip
-  -Đăng nhập tài khoản hosting mà bạn được cung cấp.
-  -Nhấp chuột vào cPanel File Manager để mở
-  -Nếu một thông báo ở đây hãy chọn Web Root.
-  -Truy cập vào thư mục public_html. Click Upload
-  -Chọn file wordpress.zip đã tải từ trước
-  -Sau khi upload xong, đóng tab và trở về File Manager.
-  -Nếu bạn vẫn không thấy một tập tin nào trong thư mục, bấm nút Reload (và không phải nút F5 của trình duyệt). Bạn sẽ thấy file                wordpress.zip bây giờ.
-  -Giải nén file wordpress.zip,bây giờ bạn sẽ thấy toàn bộ soure code WordPress đã sẵn sàng để cài đặt
+   Upload file zip bạn vừa tải về lên server:
+   - Sử dụng File Manage (Cpanel) để upload file zip
+   Đăng nhập tài khoản hosting mà bạn được cung cấp.
+   Nhấp chuột vào cPanel File Manager để mở
+   Nếu một thông báo ở đây hãy chọn Web Root.
+   Truy cập vào thư mục public_html. Click Upload
+   Chọn file wordpress.zip đã tải từ trước
+   Sau khi upload xong, đóng tab và trở về File Manager.
+   Nếu bạn vẫn không thấy một tập tin nào trong thư mục, bấm nút Reload (và không phải nút F5 của trình duyệt). Bạn sẽ thấy file                wordpress.zip bây giờ.
+   Giải nén file wordpress.zip,bây giờ bạn sẽ thấy toàn bộ soure code WordPress đã sẵn sàng để cài đặt
 -Bước #2: Tạo database và database user
   -Tạo database trong cPanel, Trong phần DATABASES, chọn MySQL Database Wizard,Đặt tên cho Database mới
   -Bước tiếp theo là tạo database users. Tương tự chúng ta đặt tên và tạo mật khẩu
